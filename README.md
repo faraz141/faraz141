@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **html,css,Javascript,Typescript**
 
-- 📫 How to reach me **alamfaraz14@gmail.com**
+- 📫 How to reach me **alamfaraz141@gmail.com**
 
 - ⚡ Fun fact **I am crazy about cricket and Football**
 
