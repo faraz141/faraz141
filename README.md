@@ -4,13 +4,13 @@
 <image align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz141&label=Profile%20views&color=0e75b6&style=flat" alt="faraz141" /> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **html,css**
+- 💬 Ask me about **html,css,Javascript,Typescript**
 
 - 📫 How to reach me **alamfaraz14@gmail.com**
 
-- ⚡ Fun fact **I am crazy about cricket**
+- ⚡ Fun fact **I am crazy about cricket and Football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
