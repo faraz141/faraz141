@@ -1,8 +1,127 @@
 ![logo](https://github.com/faraz141/faraz141/blob/main/WhatsApp%20Image%202024-07-23%20at%2019.00.07_d0e6d00b.jpg)
-<h1 align="center">Hi 👋, I'm Faraz Alam</h1>
+<!-- <h1 align="center">Hi 👋, I'm Faraz Alam</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <image align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz141&label=Profile%20views&color=0e75b6&style=flat" alt="faraz141" /> </p>
+![logo](https://github.com/faraz141/faraz141/blob/main/WhatsApp%20Image%202024-07-23%20at%2019.00.07_d0e6d00b.jpg) -->
+
+<h1 align="center">Hi 👋, I'm Faraz Alam</h1>
+<h3 align="center">Junior MERN Stack Developer | React & Next.js Specialist</h3>
+
+<image align="right" alt="coding" width="400"
+src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=faraz141&label=Profile%20views&color=0e75b6&style=flat" alt="faraz141" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🚀 Junior **MERN Stack Developer** with startup experience  
+- 🧠 Strong focus on **Frontend Development (React, Next.js, TypeScript)**  
+- ⚡ Improved website performance from **45s → 5s** using **SSR, SSG, code splitting & image optimization**
+- 🤝 Experience working in **team-based real-world projects**
+- 🌱 Currently learning **Advanced Next.js, AI Agents & Backend integrations**
+- 🎓 BS Computer Science — **Virtual University of Pakistan**
+
+---
+
+### 💼 Work Experience
+
+**MERN Stack Developer — Internpools.com**  
+📍 Karachi, Pakistan | *Nov 2023 – Present*
+
+- Worked on real-world MERN stack applications  
+- Focused on frontend development & UI/UX improvement  
+- Collaborated with team to translate requirements into features  
+- Assisted in testing, debugging, and feature optimization  
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **Arkaba.org**  
+- Led frontend development using **Next.js & React**
+- Built responsive UI and integrated backend services  
+- Worked in a 3-member team with defined roles  
+
+🔹 **Internpools.com**  
+- Migrated site from React to **Next.js**
+- Implemented **SSR, SSG, code splitting**
+- Reduced load time from **45 seconds to 5 seconds**
+- Improved SEO & user experience  
+
+🔹 **Hackathon E-commerce Project**  
+- Built a full e-commerce website in **24 hours**
+- Used **Next.js + Sanity CMS**
+- Focused on performance & rapid delivery  
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
+
+#### Backend & Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
+
+---
+
+### 🤖 AI & Emerging Tech
+- OpenAI Agents SDK  
+- AI-powered workflows & automation (learning phase)
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: **alamfaraz141@gmail.com**
+- 🌐 Portfolio: https://arkaba.org
+- 🌐 Project: https://internpools.com
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/faraz-alam" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+<a href="https://instagram.com/farazalam857" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=faraz141&show_icons=true&layout=compact"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=faraz141&show_icons=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faraz141"/>
+</p>
 
 - 🌱 I’m currently learning **React.js**
 
